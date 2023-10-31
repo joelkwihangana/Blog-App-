@@ -1,8 +1,10 @@
+import Topbar from "./components/Topbar/Topbar";
+
 const App = () => {
   return (
-    <div>
-      <h1>Getting started</h1>
-    </div>
+    <>
+      <Topbar />
+    </>
   );
 };
 
